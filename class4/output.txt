@@ -1,0 +1,8 @@
+Purple
+Blue
+Green
+Red
+
+Fourth letter in 'Purple':  p
+Purple
+Blue
